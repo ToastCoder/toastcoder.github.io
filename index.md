@@ -1,12 +1,11 @@
 ## Vigneshwar K R
 
-You can use the [editor on GitHub](https://github.com/ToastCoder/toastcoder.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hi, I'm Vigneshwar. I'm a Computer Geek and a self-motivated ECE student having great interest towards Computer Science and its associated hardware and software fields. I'm having a long and a profound passion towards the tech industry and wish to learn more about it. I wish to make myself nearly up to date with the release of new products in the tech industry such as Smartphones, Laptops, Cars, Smart Gadgets etc and their internal hardware and software. Also, I wish to make revolutions in current technologies and help the society to improve its way of living. Interested in Machine Learning and Cloud Computing.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Experience:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Data Science Intern - CourseBricks
 
 ```markdown
 Syntax highlighted code block
