@@ -5,6 +5,13 @@ Hi, I'm Vigneshwar. I'm a Computer Geek and a self-motivated ECE student having 
 
 ## Experience:
 
-Data Science Intern - (June 2020 - July 2020)
+**Data Science Intern** - *(June 2020 - July 2020)*
 
 CourseBricks - Full Time
+
+## Education:
+
+**B.E Electronics and Communication Engineering** - *(August 2018 - Present)*
+
+Rajalakshmi Engineering College 
+
