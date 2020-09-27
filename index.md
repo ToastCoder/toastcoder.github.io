@@ -15,4 +15,3 @@ CourseBricks - Full Time
 
 Rajalakshmi Engineering College 
 
-## Projects:
